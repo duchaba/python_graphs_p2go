@@ -18,7 +18,7 @@ The salient point is, why not do it yourself. You can start with a fun sandbox p
 
 - I use a notebook to interactively writing the code, and afterward, I copy the code into a Python project using Atom IDE. https://atom.io/
 
-### The journey continue in the Jypyter notebook 
+### The journey continue in the Jupyter notebook 
 
 https://github.com/duchaba/python_graphs_p2go/blob/master/Python_Graphs_p2go.ipynb
 
