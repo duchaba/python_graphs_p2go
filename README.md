@@ -18,7 +18,7 @@ The salient point is, why not do it yourself. You can start with a fun sandbox p
 
 - I use a notebook to interactively writing the code, and afterward, I copy the code into a Python project using Atom IDE. https://atom.io/
 
-### The journey continue in the Jypyter notebook ![Python_Graphs-p2go.ipynb](https://github.com/duchaba/python_graphs_p2go/blob/master/Python_Graphs-p2go.ipynb)
+### The journey continue in the Jypyter notebook https://github.com/duchaba/python_graphs_p2go/blob/master/python_graphs-p2go.ipynb
 
 <center><h4><i>Sample output-graphs from the notebook</i></h4></center>
 
@@ -31,7 +31,7 @@ I love spending time doing fun "sandbox" or "toy" projects. I can focus on one p
 
 
 After leaving the rules-based expert-systems behind when I left Xerox PARC in my early youth, I am delighted to return to AI. It is due in large part by Jeremy Howard, Rachel Thomas, and Sylvain Gugger's courses. Their style of demystifying AI using code, and yet not dummy down, is one of the best I have learned. 
-
+https://www.linkedin.com/pulse/demystify-python-charts-hackable-step-by-step-jupyter-duc-haba
 
 If you read this on Jupyter notebook, I hope you have hacked the hell of it and created your specialized drawing-graph companion. The one request is you heading over to LinkedIn, giving a thumbs-up, and sending me a message. 
 
