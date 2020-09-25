@@ -1,4 +1,5 @@
-# 1 - Introduction
+# Python 2D Graph project (p2go)
+---
 
 Welcome to the "Python 2D Graphs" (p2go) project. It is a hackable, step-by-step for creating a 2D graph Python-object. 
 
