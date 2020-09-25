@@ -1,5 +1,4 @@
 # Python 2D Graph project (p2go)
----
 
 Welcome to the "Python 2D Graphs" (p2go) project. It is a hackable, step-by-step for creating a 2D graph Python-object. 
 
@@ -32,7 +31,7 @@ The salient point is, why not do it yourself. You can start with a fun sandbox p
 
 I love spending time doing fun "sandbox" or "toy" projects. I can focus on one problem, and Jupyter notebooks make it easy to document the journey and share it with my friends, both real and virtual. 
 
-After leaving the rules-based expert-systems behind when I left Xerox PARC in my early youth, I am delighted to return to AI. It is due in large part by Jeremy Howard, Rachel Thomas, and Sylvain Gugger's courses. Their style of demystifying AI using code, and yet not dummy down, is one of the best I have learned. 
+After leaving the rules-based expert-systems behind when I left Xerox PARC in my early youth, I am delighted to return to AI. It is due in large part by Jeremy Howard, Rachel Thomas, and Sylvain Gugger's courses. Their style of demystifying AI using code, and yet not dummy down, is one of the best I have learned. https://fast.ai
 
 - If you read this on Jupyter notebook, I hope you have hacked it and created your specialized drawing-graph companion. The one request is you heading over to LinkedIn, giving a thumbs-up, and sending me a message. 
 
